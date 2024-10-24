@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# File: concrete.py
+# File: 2024-05-09.py
 
 """
 Thu 09 May 2024 08:06:46 AM PDT
@@ -19,6 +19,8 @@ total = sona_vol + bases
 print(f"Volume needed: {total:.1f} cu ft")
 
 vol_used = 4 * 1.8
+
+print(__doc__)
 
 print(f"""If memory serves I used one sac of cement
 probably 2 years old and very hardened but broke up
